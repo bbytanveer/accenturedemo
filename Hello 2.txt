@@ -1,4 +1,9 @@
 Hello 2 ...
 I'm currently in a training whole day :-)
+<<<<<<< HEAD
 Training Test .. Changes Edited 
 
+=======
+Changes in the schedule ... Please check!
+Test error
+>>>>>>> 98e00af14cb2a67613abce8180eb0db05eb5a4dc
