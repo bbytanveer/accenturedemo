@@ -1,7 +1,3 @@
 Hello 2 ...
-<<<<<<< HEAD
-
 I'm currently in a training whole day :-)
-=======
 Changes in the schedule ... Please check!
->>>>>>> c15858231c3ea7489deeb791276ab9c493ebd19b
